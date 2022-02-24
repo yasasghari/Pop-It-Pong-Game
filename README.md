@@ -60,7 +60,7 @@ Contributions.
 We hope that this project will allow us to teach eachother important skills within
 programming, and therefore we intend to do a lot of coding in a pair. We have however decided
 to make the projects in separate parts, like inputs, graphics, logics and game engine. Yas Asghari
-will be focusing primarily on graphics and input whilst Edin Frosterud will focus on game
+will be focusing primarily on graphics and input whilst Edvin Frosterud will focus on game
 engine and logic for the game. The final division of work will be explained in the final abstract.
 Reflections. The project will be discussed and reflected upon in the final abstract.
 
