@@ -1,4 +1,4 @@
-# POPIY PONG GAME
+# POPIT PONG GAME
 Project in course IS1200, developing a game in language C and displaying it on a UNO32 chipkit
 Ball collision POPIT game w/ wall
 By Edvin Frosterud, and Yas Asghari
